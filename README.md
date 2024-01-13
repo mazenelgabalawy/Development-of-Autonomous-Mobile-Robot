@@ -12,6 +12,11 @@ We used the OAK-D on-board 9-axis IMU, which has embedded sensor fusion.
 ### Wheel Encoders
 We used 360ppr Encoders which collected Odometry data. The odometry message was then fused with readings from the IMU, Visual-Odometry and ICP-odometry coming from the LIDAR.
 
+## Flowchart
+
+![image](https://github.com/mazenelgabalawy/Development-of-Autonomous-Mobile-Robot/assets/72276135/62c71a6a-cba6-4341-aaf7-1048d6c984c1)
+
+
 ## Results
 
 
